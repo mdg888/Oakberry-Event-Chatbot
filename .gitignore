@@ -35,6 +35,9 @@ wheels/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
+# Gradio
+.gradio/
+
 # IDE
 .vscode/
 .idea/
