@@ -70,3 +70,6 @@ htmlcov/
 
 # Other
 requirement.txt
+
+# .toml
+pyproject.toml
